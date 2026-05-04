@@ -32,7 +32,13 @@ application {
     // Define the main class for the application.
     mainClass = 'org.example.App'
 }
-
+jar {
+    manifest {
+        attributes(
+            'Main-Class': 'org.example.App'
+        )
+    }
+}
 tasks.named('test') {
     // Use JUnit Platform for unit tests.
     useJUnitPlatform()
