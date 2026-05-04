@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.AppTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-05-04T18:49:10.928Z" hostname="DESKTOP-G343B6H" time="0.053">
+  <properties/>
+  <testcase name="testReverseString()" classname="org.example.AppTest" time="0.028"/>
+  <testcase name="testMultiplication()" classname="org.example.AppTest" time="0.002"/>
+  <testcase name="testAddition()" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="testDivision()" classname="org.example.AppTest" time="0.002"/>
+  <testcase name="testSubtraction()" classname="org.example.AppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
